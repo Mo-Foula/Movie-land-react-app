@@ -1,3 +1,11 @@
+# This application is a simple react app that shows movies and can search movies with OMDB API
+
+Add API key in .env file with the name: moviesAPIKey
+
+Crash course this application is inspired by: https://www.youtube.com/watch?v=b9eMGE7QtTk&ab_channel=JavaScriptMastery
+
+API: https://www.omdbapi.com/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
