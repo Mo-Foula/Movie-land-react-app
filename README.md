@@ -1,6 +1,8 @@
 # This application is a simple react app that shows movies and can search movies with OMDB API
 
-Add API key in .env file with the name: moviesAPIKey
+Add API key in .env file with the name: REACT_APP_moviesAPIKey
+
+Hosted version: https://lignite-blackboard.000webhostapp.com/
 
 Crash course this application is inspired by: https://www.youtube.com/watch?v=b9eMGE7QtTk&ab_channel=JavaScriptMastery
 
